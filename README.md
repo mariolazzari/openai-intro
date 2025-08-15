@@ -1,1 +1,1 @@
-# openai-intro
+# Openai introduction
